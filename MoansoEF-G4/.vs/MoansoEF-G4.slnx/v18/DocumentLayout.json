@@ -1,30 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\",
+  "WorkspaceRootPath": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\juanl\\source\\repos\\repo\\moanso-final-g4\\moansoef-g4\\moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|solutionrelative:capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Capa Logica||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|solutionrelative:capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\capa datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|solutionrelative:capa datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\juanl\\source\\repos\\repo\\moanso-final-g4\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +37,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Capa Logica",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Logica\\Capa Logica.csproj",
+              "RelativeDocumentMoniker": "Capa Logica\\Capa Logica.csproj",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Logica\\Capa Logica.csproj",
+              "RelativeToolTip": "Capa Logica\\Capa Logica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T04:00:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
               "RelativeToolTip": "MoansoEF-G4\\Form1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAIA0wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,23 +86,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Capa Presentacion.csproj",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Capa Presentacion.csproj",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
               "RelativeToolTip": "MoansoEF-G4\\Capa Presentacion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-16T01:47:09.026Z"
+              "WhenOpened": "2026-02-16T01:47:09.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Logica\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Logica\\Class1.cs",
               "RelativeDocumentMoniker": "Capa Logica\\Class1.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Logica\\Class1.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Logica\\Class1.cs",
               "RelativeToolTip": "Capa Logica\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
               "RelativeDocumentMoniker": "Capa Entidad\\Class1.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
               "RelativeToolTip": "Capa Entidad\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Datos\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Datos\\Class1.cs",
               "RelativeDocumentMoniker": "Capa Datos\\Class1.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Datos\\Class1.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\Capa Datos\\Class1.cs",
               "RelativeToolTip": "Capa Datos\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,15 +135,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs [Design]",
+              "RelativeToolTip": "MoansoEF-G4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T01:41:29.759Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
